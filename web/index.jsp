@@ -21,7 +21,7 @@
 <div class="row">
     <div class="col s6 offset-s3">
         <div class="card-panel">
-            <p class="center-aling">Ingresar Productos</p>
+            <p class="center-aling"><span class="blue-text text-darken-2">Ingresar Productos</span></p>
             <form action="control.do" method="post">
             <div class="input-field col s6">
                 <input id="nombre" name="nombre" type="text" class="validate">
